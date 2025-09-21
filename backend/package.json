@@ -1,0 +1,16 @@
+{
+  "name": "healthcare-customer-care-backend",
+  "version": "1.0.0",
+  "description": "Healthcare Management System Backend",
+  "scripts": {
+    "start": "mvnw.cmd spring-boot:run",
+    "build": "mvnw.cmd clean package",
+    "test": "mvnw.cmd test",
+    "clean": "mvnw.cmd clean",
+    "install": "mvnw.cmd clean install"
+  },
+  "keywords": ["healthcare", "spring-boot", "java"],
+  "author": "Healthcare Team",
+  "license": "MIT"
+}
+
